@@ -1,4 +1,4 @@
-# 读过和将要读的书籍 :no_good_man:
+# 接触过的计算机书籍 
 
 本仓库旨在收集优质计算机书籍，尽量选择高清带目录的版本。
 
@@ -13,6 +13,14 @@
 |[Latex入门](./Skill/LaTeX%E5%85%A5%E9%97%A8.pdf) | # | 中 | 有 | 是 | Latex写文章得熟悉吧 |
 |[ProGit](./Skill/progit.pdf) | # | 英 | 有 | 是 | Git版本控制得掌握吧 |
 |[常见设计模式的解析和实现(C++)](./Skill/%E5%B8%B8%E8%A7%81%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%9A%84%E8%A7%A3%E6%9E%90%E5%92%8C%E5%AE%9E%E7%8E%B0(C%2B%2B).pdf) | # | 中 | 有 | 是 | 几种系统设计模式得了解吧 |
+
+## 优化算法 
+|书名|版本|语言|目录|高清|备注|
+|:---:|:---:|:---:|:----:|:---:|:---:|
+|[Convex Optimization](./Algorithm/Convex%20Optimization/cvxbook.pdf) | # | 英 | 有 | 是 | 优化问题典中典之凸优化理论 |
+|[Numerical Optimization](./Algorithm/Convex%20Optimization/Numerical_Optimization2006.pdf) | # | 英 | 有 | 是 | 数值优化 |
+
+
 
 ## 数据结构和算法
 该部分大多数都是本人在上陈老师课上学习所用到的书籍，都是经典的计算机算法好书
